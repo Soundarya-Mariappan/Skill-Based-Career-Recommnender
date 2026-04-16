@@ -97,7 +97,7 @@ The system displays a bar chart showing match scores for recommended careers.
 ---
 
 ## Author
-Your Name
+Soundarya.M
 
 ---
 
